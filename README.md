@@ -1,6 +1,6 @@
 <!-- Header  -->
 
-![Header](<./github-header-image%20(1).png.png>)
+![Header](<./github-header-image%20(1).png>)
 
 <!-- Coding Skills -->
 
