@@ -17,3 +17,7 @@
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+
+### || khobearzadon@gmail.com || [LinkedIn](https://www.linkedin.com/in/khobe-arzadon-4b985a202) || [Portfolio](https://khobearzadon.netlify.app/)
