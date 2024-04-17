@@ -2,6 +2,14 @@
 
 ![Header](<./github-header-image%20(1).png>)
 
+I am from Sacramento, California. I attended Saint Mary's College of California and graduated with a BS in Math with a concentration in Computer Science. I also graduated App Academy in April 2024!
+
+I love being able to make my ideas and thoughts into actual working applications. Being a software engineer has allowed me to create applications that I hope others will use as well.
+
+Some hobbies of mine include snowboarding, hiking, running, lifting weights, playing basketball, playing video games, movie marathons, and traveling.
+
+I see myself as someone who will never stop learning. There is so much to learn in this field and in life in general. I will always be someone that values the knowledge gained from one another. With school, work, leadership, and social life, I have learned how to balance my time and create a healthy environment where I am able to enjoy and put in my best effort to all aspects.
+
 <!-- Coding Skills -->
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
